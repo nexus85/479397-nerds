@@ -1,6 +1,6 @@
 ﻿# Личный проект «Нёрдс»
 
-* Студент: [Алена Скрыпник](https://up.htmlacademy.ru/htmlcss/18/user/479397).
+* Студент: [Тест](https://up.htmlacademy.ru/htmlcss/18/user/479397).
 * Наставник: [Андрей Рычагов](https://htmlacademy.ru/profile/id50483)
 
 ---

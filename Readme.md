@@ -1,7 +1,7 @@
 ﻿# Личный проект «Нёрдс»
 
-* Студент: [Тест](https://up.htmlacademy.ru/htmlcss/18/user/479397).
-* Наставник: [Андрей Рычагов](https://htmlacademy.ru/profile/id50483)
+* Студент: [Тест](http://yandex.ru).
+* Наставник: [Test](http://google.com)
 
 ---
 
